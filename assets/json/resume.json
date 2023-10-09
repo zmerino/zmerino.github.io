@@ -1,52 +1,57 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Zach Merino",
+    "label": "PhD Candidate",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
+    "email": "zmerino@uwaterloo.ca",
+    "url": "https://github.com/zmerino",
     "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "200 University Ave West",
+      "postalCode": "N2L 3G1",
+      "city": "Waterloo",
+      "countryCode": "Canada",
+      "region": "Ontario"
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "network": "LinkedIn",
+        "username": "zachmerino",
+        "url": "https://www.linkedin.com/in/zachmerino/"
       }
     ]
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
+      "name": "Institute for Quantum Computing, University of Waterloo",
+      "position": "PhD Candidate",
+      "url": "https://uwaterloo.ca/institute-for-quantum-computing/contacts/zach-merino",
+      "startDate": "2020-09-05",
+      "endDate": "Present",
       "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
       "highlights": [
-        "Relativity"
+        "Computational Modeling",
+        "Semiconductor Qauntum Dots"
       ]
     }
   ],
   "volunteer": [],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
+      "institution": "University of North Carolina at Charlotte",
+      "url": "https://physics.charlotte.edu/",
+      "area": "Applied Physics",
+      "studyType": "MSc",
+      "startDate": "2017-08-24",
+      "endDate": "2019-05-05",
       "score": "",
       "courses": [
-        "Theory of Relativity"
+        "Optical Properties of Materials",
+        "Quantum Theory I",
+        "Theoretical Physics",
+        "Principles of Physical Optics",
+        "Classical Electromagnetism I",
+        "Statistical Physics"
       ]
     }
   ],
@@ -61,16 +66,7 @@
   "certificates": [],
   "publications": [],
   "skills": [],
-  "languages": [
-    {
-      "language": "German",
-      "fluency": "Native speaker"
-    },
-    {
-      "language": "English",
-      "fluency": "Fluent"
-    }
-  ],
+  "languages": [],
   "interests": [],
   "references": [],
   "projects": []
