@@ -3,3 +3,5 @@ github_users:
 
 github_repos:
   - zmerino/Silicon-Modelling
+  - zmerino/Nut-Server
+  - zmerino/particle_simulator
