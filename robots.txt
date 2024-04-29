@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://zmerino.github.io/sitemap.xml
