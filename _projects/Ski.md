@@ -1,14 +1,14 @@
 ---
 layout: page
 title: Laminated Snow Ski
-description: another without an image
+description: Show case of an advanced study project designing a laminated wooden ski 
 img: assets/img/wood_ski/laminated_ski.png
 importance: 3
 category: highschool
 ---
 
-Ski project.
-
+The goal of the advanced study project was to design and build a prototype twin tip 
+ski for freestyle skiing applications.
 
 Planning:
 

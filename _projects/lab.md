@@ -2,7 +2,7 @@
 layout: page
 title: Lab Activities
 description: Highlights of common tasks performed in the Coherent Spintronics research Group (CSG)
-img: assets/img/lab_work/wirebond.png
+img: assets/img/lab_work/wirebond.jpg
 importance: 3
 category: research
 ---

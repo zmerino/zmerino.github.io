@@ -3,6 +3,52 @@
 
 @string{aps = {American Physical Society,}}
 
+@Misc{Merino2024,
+  author    = {Merino, Zach D. and Khromets, Bohdan and Baugh, Jonathan},
+  title     = {Simulated Charge Stability in a MOSFET Linear Quantum Dot Array},
+  year      = {2024},
+  copyright = {Creative Commons Attribution 4.0 International},
+  doi       = {10.48550/ARXIV.2402.15499},
+  keywords  = {Mesoscale and Nanoscale Physics (cond-mat.mes-hall), FOS: Physical sciences, FOS: Physical sciences},
+  publisher = {arXiv},
+  abbr = {arXiv},
+
+  pdf={Simulated Charge Stability in a MOSFET Linear Quantum Dot Array.pdf},
+  abstract={In this study, we address challenges in designing quantum information 
+  processors based on electron spin qubits in electrostatically-defined quantum dots 
+  (QDs). Numerical calculations of charge stability diagrams are presented for a 
+  realistic double QD device geometry. These methods generaize to linear QD arrays, 
+  and are based on determining the effective parameters of a Hubbard model Hamiltonian 
+  that is then diagonalized to find the many-electron ground state energy. These 
+  calculations enable the identification of gate voltage ranges that maintain desired 
+  charge states during qubit manipulation, and also account for electrical cross-talk 
+  between QDs. As a result, the methods presented here promise to be a valuable tool 
+  for developing scalable spin qubit quantum processors}
+
+}
+
+@Misc{Khromets2024,
+  author    = {Khromets, Bohdan and Merino, Zach D. and Baugh, Jonathan},
+  title     = {Hamiltonian engineering with time-ordered evolution for unitary control of electron spins in semiconductor quantum dots},
+  year      = {2024},
+  copyright = {Creative Commons Attribution 4.0 International},
+  doi       = {10.48550/ARXIV.2402.08146},
+  keywords  = {Quantum Physics (quant-ph), Mesoscale and Nanoscale Physics (cond-mat.mes-hall), FOS: Physical sciences, FOS: Physical sciences},
+  publisher = {arXiv},
+  abbr = {arXiv},
+
+  pdf={Hamiltonian engineering with time-ordered evolution for unitary control of electron spins in semiconductor quantum dots.pdf},
+  abstract={We present a unitary control pulse design method for a scalable quantum
+  computer architecture based on electron spins in lateral quantum dots. We employ
+  simultaneous control of spin interactions and derive the functional forms of spin
+  Hamiltonian parameter pulses for a universal set of 1- and 2-qubit logic gates. This
+  includes selective spin rotations with the weak local g-factor variations in the pres-
+  ence of the global oscillating field, and a Control-Phase operation with the simul-
+  taneous control of g-factors and exchange couplings. We outline how to generalize
+  the control scheme to multiqubit gate operations and the case of constrained or im-
+  perfect control of the Hamiltonian parameters.}
+}
+
 @article{farmer2019universal,
   abbr={Entropy},
   bibtex_show={true},
@@ -13,7 +59,9 @@
   number={11},
   pages={1120},
   year={2019},
-  publisher={MDPI}
+  publisher={MDPI},
+
+  pdf={Universal sample size invariant measures for uncertainty quantification in density estimation.pdf}
 }
 
 @Article{a16070310,
@@ -28,7 +76,9 @@
   URL = {https://www.mdpi.com/1999-4893/16/7/310},
   ISSN = {1999-4893},
   ABSTRACT = {We present a novel nonparametric adaptive partitioning and stitching (NAPS) algorithm to estimate a probability density function (PDF) of a single variable. Sampled data is partitioned into blocks using a branching tree algorithm that minimizes deviations from a uniform density within blocks of various sample sizes arranged in a staggered format. The block sizes are constructed to balance the load in parallel computing as the PDF for each block is independently estimated using the nonparametric maximum entropy method (NMEM) previously developed for automated high throughput analysis. Once all block PDFs are calculated, they are stitched together to provide a smooth estimate throughout the sample range. Each stitch is an averaging process over weight factors based on the estimated cumulative distribution function (CDF) and a complementary CDF that characterize how data from flanking blocks overlap. Benchmarks on synthetic data show that our PDF estimates are fast and accurate for sample sizes ranging from 29 to 227, across a diverse set of distributions that account for single and multi-modal distributions with heavy tails or singularities. We also generate estimates by replacing NMEM with kernel density estimation (KDE) within blocks. Our results indicate that NAPS(NMEM) is the best-performing method overall, while NAPS(KDE) improves estimates near boundaries compared to standard KDE.},
-  DOI = {10.3390/a16070310}
+  DOI = {10.3390/a16070310},
+
+  pdf={Probability Density Estimation through Nonparametric Adaptive Partitioning and Stitching.pdf}
 }
 
 @inproceedings{10.1145/3565478.3572541,
@@ -46,7 +96,9 @@
   numpages = {6},
   keywords = {CMOS addressing circuits, electron spin qubits, quantum dots},
   location = {Virtual, OR, USA},
-  series = {NANOARCH '22}
+  series = {NANOARCH '22},
+
+  pdf = {Scalable Addressing Circuits for a Surface Code.pdf}
 }
 
 @article{10.1063/5.0160792,
@@ -64,27 +116,8 @@
     doi = {10.1063/5.0160792},
     url = {https://doi.org/10.1063/5.0160792},
     eprint = {https://pubs.aip.org/aip/apl/article-pdf/doi/10.1063/5.0160792/18074718/061102\_1\_5.0160792.pdf},
+
+    pdf={Stable electroluminescence in ambipolar dopant-free lateral pn junctions.pdf}
 }
 
-@Misc{Merino2024,
-  author    = {Merino, Zach D. and Khromets, Bohdan and Baugh, Jonathan},
-  title     = {Simulated Charge Stability in a MOSFET Linear Quantum Dot Array},
-  year      = {2024},
-  copyright = {Creative Commons Attribution 4.0 International},
-  doi       = {10.48550/ARXIV.2402.15499},
-  keywords  = {Mesoscale and Nanoscale Physics (cond-mat.mes-hall), FOS: Physical sciences, FOS: Physical sciences},
-  publisher = {arXiv},
-  abbr = {arXiv}
-}
-
-@Misc{Khromets2024,
-  author    = {Khromets, Bohdan and Merino, Zach D. and Baugh, Jonathan},
-  title     = {Hamiltonian engineering with time-ordered evolution for unitary control of electron spins in semiconductor quantum dots},
-  year      = {2024},
-  copyright = {Creative Commons Attribution 4.0 International},
-  doi       = {10.48550/ARXIV.2402.08146},
-  keywords  = {Quantum Physics (quant-ph), Mesoscale and Nanoscale Physics (cond-mat.mes-hall), FOS: Physical sciences, FOS: Physical sciences},
-  publisher = {arXiv},
-  abbr = {arXiv}
-}
 
