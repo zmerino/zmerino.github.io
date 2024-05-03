@@ -11,14 +11,18 @@ category: hobbies
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/automotive/oil_change_1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/automotive/oil_change_1.jpg" 
+        title="example image" 
+        class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/automotive/oil_change_2.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/automotive/oil_change_2.jpg" 
+        title="example image" 
+        class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    A few special moments observing animals in nature.
+    Preparing for an anual oil change.
 </div>
 
 # Radiator replacement
@@ -26,38 +30,54 @@ category: hobbies
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/automotive/w_radiator.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/automotive/w_radiator.jpg" 
+        title="example image" 
+        class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/automotive/wo_radiator.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/automotive/wo_radiator.jpg" 
+        title="example image" 
+        class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/automotive/radiator.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/automotive/radiator.jpg" 
+        title="example image" 
+        class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    A few special moments observing animals in nature.
+    (Left) Prepare radiator for removal (Middle) removed radiator (Right) radior prepared to installation.
 </div>
 
 # Replacement of lug stud
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/automotive/stud_replacement_1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/automotive/stud_replacement_1.jpg" 
+        title="example image" 
+        class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/automotive/stud_replacement_2.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/automotive/stud_replacement_2.jpg" 
+        title="example image" 
+        class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/automotive/stud_replacement_3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/automotive/stud_replacement_3.jpg" 
+        title="example image" 
+        class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/automotive/stud_replacement_4.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/automotive/stud_replacement_4.jpg" 
+        title="example image" 
+        class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/automotive/stud_replacement_5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/automotive/stud_replacement_5.jpg" 
+        title="example image" 
+        class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    A few special moments observing animals in nature.
+    Broken lug stud removal and replacement.
 </div>

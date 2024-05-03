@@ -11,29 +11,42 @@ category: hobbies
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/random/goose.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/random/goose.jpg" 
+        title="example image" 
+        class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/random/hawk.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/random/hawk.jpg" 
+        title="example image" 
+        class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/random/octopus.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/random/octopus.jpg" 
+        title="example image" 
+        class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    A few special moments observing animals in nature.
+    A few special moments observing animals in nature (Left) goose pondering its own existance 
+    (Middle) hawk relaxing on my back deck (Right) octopus observed in Hawaii.
 </div>
 
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/random/turtle_0.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/random/turtle_0.jpg" 
+        title="example image" 
+        class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/random/turtle_1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/random/turtle_1.jpg" 
+        title="example image" 
+        class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/random/turtle_2.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/random/turtle_2.jpg" 
+        title="example image" 
+        class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -44,13 +57,19 @@ category: hobbies
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/random/house_render_iso.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/random/house_render_iso.jpg" 
+        title="example image" 
+        class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/random/house_render_front.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/random/house_render_front.jpg" 
+        title="example image" 
+        class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/random/house_render_back.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/random/house_render_back.jpg" 
+        title="example image" 
+        class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -61,10 +80,14 @@ category: hobbies
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/random/desk_1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/random/desk_1.jpg" 
+        title="example image" 
+        class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/random/desk_2.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/random/desk_2.jpg" 
+        title="example image" 
+        class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -75,16 +98,22 @@ category: hobbies
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/random/rollerblade_mag_clip.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/random/rollerblade_mag_clip.jpg" 
+        title="example image" 
+        class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/random/pumkin.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/random/pumkin.jpg" 
+        title="example image" 
+        class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/random/origami.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/random/origami.jpg" 
+        title="example image" 
+        class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    From left to right: (a) An attempt at making a cover photo for a skate magazie (b) A pumpkin made by a physicist (c) My
+    (Left) An attempt at making a cover photo for a skate magazie (Middle) pumpkin made by a physicist (Right) 
     first attempt at making an origami cicada (entry level).
 </div>
