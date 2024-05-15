@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Observatory Liason
+title: Observatory Liaison
 description: My time as an observatory liason for the UW and UNCC observatories.
 img: assets/img/astronomy/blood_moon.jpg
 importance: 2
