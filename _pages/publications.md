@@ -1,8 +1,8 @@
 ---
 layout: page
 permalink: /publications/
-title: publications
-description: A selection of publications that I have contributed to.
+title: publications & talks
+description: A selection of publications/talks/posters that I have contributed.
 nav: true
 nav_order: 1
 ---

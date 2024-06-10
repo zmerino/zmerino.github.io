@@ -4,7 +4,7 @@ title: projects
 permalink: /projects/
 description: Brief highlights from past and current projects.
 nav: true
-nav_order: 2
+nav_order: 3
 display_categories: [research, hobbies, highschool]
 horizontal: false
 ---

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Culinary and Fermination 🧑‍🍳     
+title: Culinary and Fermentation 🧑‍🍳     
 description: A simple assortment of the food I like to prepare.
 img: assets/img/food/sour_dough.jpg
 importance: 4
